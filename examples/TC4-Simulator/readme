@@ -1,0 +1,3 @@
+In order to work with Artisan coffee roaster application, this repository uses the Arduino UNO board and MAX6675 module to simulate Artisan TC4 commands.
+
+The TC4-Simulator uses HeliOS API to switch tasks to read MAX6675 thermal couple and response TC4 commands from Artisan application.
